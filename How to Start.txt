@@ -1,0 +1,17 @@
+
+    > ./mongod
+    or
+    > mongod
+
+    > npm update
+    > npm install nodemon
+    > npx nodemon server.js
+
+    > http://localhost:3000/
+
+
+SET PATH=C:\Program Files\Nodejs;%PATH%
+
+mongodb://localhost:27017
+
+C:\Users\vyask\Desktop\VideoStreamingusingMongoDB\video-streaming-website\node_modules\@mapbox\node-pre-gyp\lib\util\nw-pre-gyp\index.html
